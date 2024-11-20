@@ -3,7 +3,7 @@
 🇮🇳 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🇮🇳
 
 <!--
-**Rishubot/rishubot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Revengerbot/revengerbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
